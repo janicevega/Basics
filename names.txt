@@ -1,3 +1,11 @@
 I like mac and cheese
 
 I am janice vega and im programming now
+
+I will learn and master:
+- Azure Cloud Programming
+- Linux Commands
+- Git Commands
+- SQL Server Programming
+- Power BI
+- Python
